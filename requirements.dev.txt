@@ -38,7 +38,7 @@ click==8.0.1
     #   pip-tools
 contextvars==2.4
     # via sniffio
-dataclasses==0.8
+dataclasses==0.6
     # via
     #   anyio
     #   black
